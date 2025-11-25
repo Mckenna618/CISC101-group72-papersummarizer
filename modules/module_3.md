@@ -1,4 +1,4 @@
-**Module 3: Guardrails Module**
+### **Module 3: Guardrails Module**
 - Detect missing/empty/<50-word sections.
 - Enforce anti-hallucination rules.
 - Apply source-faithfulness constraints (summaries must reflect actual text).
